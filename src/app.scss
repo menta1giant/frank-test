@@ -9,6 +9,12 @@
 	--danger-button-background-color: hsl(6, 58%, 54%);
 }
 
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
 body {
 	margin: 0;
 	min-width: 320px;
