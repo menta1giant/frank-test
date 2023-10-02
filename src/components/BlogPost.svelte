@@ -58,14 +58,16 @@
 		justify-content: space-between;
 		gap: 1.25rem;
 
-		min-width: min(100vw, 30rem);
-		max-width: min(100vw, 45rem);
+		min-width: min(80vw, 30rem);
+		max-width: min(80vw, 45rem);
 		padding: 1.25rem 1.75rem;
 
 		border-radius: 3px;
 		background: white;
 		box-shadow: 0px 0px 3px 2px hsla(248, 70%, 40%, 0.05);
 		transition-duration: 300ms;
+
+		overflow: hidden;
 
 		&:hover {
 			box-shadow: 0px 0px 3px 3px hsla(248, 70%, 40%, 0.1);
