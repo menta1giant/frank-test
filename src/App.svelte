@@ -48,7 +48,7 @@
 <svelte:head>
 	<title>Blog</title>
 	<meta name="description" content="Blog" />
-	<link href="./../node_modules/@fortawesome/fontawesome-free/css/all.min.css" rel="stylesheet" />
+	<script src="https://kit.fontawesome.com/ff4a7e68a2.js" crossorigin="anonymous"></script>
 </svelte:head>
 
 <h1>Блог</h1>
