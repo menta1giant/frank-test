@@ -58,8 +58,8 @@
 		justify-content: space-between;
 		gap: 1.25rem;
 
-		min-width: min(100%, 30rem);
-		max-width: min(100%, 45rem);
+		min-width: min(100vw, 30rem);
+		max-width: min(100vw, 45rem);
 		padding: 1.25rem 1.75rem;
 
 		border-radius: 3px;
